@@ -1,1 +1,1 @@
-# carpimTablosu
+https://caslantas.github.io/carpimTablosu/
